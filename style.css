@@ -2,6 +2,12 @@
   margin: 0px;
   padding: 0px;
 }
+body {
+    font-family: 'Lexend Deca';font-size: 22px;
+}
+.mainmenu{
+  font-size: 15px;
+}
 .home{
   border: 1px solid #171c7a;
   border-radius: 5px;
