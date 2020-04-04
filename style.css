@@ -3,7 +3,7 @@
   padding: 0px;
 }
 body {
-    font-family: 'Lexend Deca';font-size: 22px;
+    font-family: 'Lexend Deca';
 }
 .mainmenu{
   font-size: 15px;
@@ -85,4 +85,49 @@ body {
 }
 .accesssubject button{
   text-transform: capitalize;
+}
+.paddingContact-container {
+    padding: 68px 15px 72px !important;
+}
+.container h1.white, .company-heading h1 {
+    font-weight: 100 !important;
+    text-transform: capitalize;
+    font-size: 65px;
+    margin-bottom: 20px;
+}
+.control-group {
+  margin-bottom: 15px;
+}
+.form {
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+.contact-text-style p {
+    font-size: 20px;
+    letter-spacing: 0px;
+}
+.theme-selector {
+  display: none;
+}
+.contact-page-form h3 {
+    font-size: 26px;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+.contact-text-style h3 {
+    font-size: 20px;
+    margin: 35px 0px 25px;
+    font-weight: 800;
+    color: #3d3d3d;
+    text-transform: capitalize;
+}
+.marginBottom40 {
+    margin-bottom: 40px;
+}
+.contact-right-info h3, .contact-right-info h2, .contact-right-info p, .contact-right-info a{
+  text-align: right;
+}
+.footer{
+  margin-bottom: 100px;
+  margin-top: 100px;
 }
