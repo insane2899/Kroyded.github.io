@@ -2,4 +2,9 @@
 A Website that hosts PDFs
 
 
-https://kroyded.github.io/
+Primary link: https://kroyded.herokuapp.com/
+
+
+
+
+for frontend testing: https://kroyded.github.io/
